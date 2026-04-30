@@ -11,5 +11,3 @@ Types of Machine Learning:
 
 Applications include image recognition, speech processing, and recommendation systems
 
-
-    
