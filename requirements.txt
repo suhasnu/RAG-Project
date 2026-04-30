@@ -9,4 +9,6 @@ chromadb
 langchain-text-splitters
 langchain-groq
 python-dotenv
+typesense
+
 
