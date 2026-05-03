@@ -10,5 +10,9 @@ langchain-text-splitters
 langchain-groq
 python-dotenv
 typesense
+langchain-openai
+langgraph
+
+
 
 
